@@ -1,0 +1,38 @@
+[
+    {
+        "etiqueta": "TAG001",
+        "nome": "Pote de café",
+        "descricao": "Café em pó",
+        "audio": "cafe.mp3"
+    },
+    {
+        "etiqueta": "TAG002",
+        "nome": "Caderno",
+        "descricao": "Caderno de estudos",
+        "audio": "caderno.mp3"
+    },
+    {
+        "etiqueta": "TAG003",
+        "nome": "Caixa de documentos",
+        "descricao": "Documentos pessoais",
+        "audio": ""
+    },
+    {
+        "etiqueta": "TAG004",
+        "nome": "Pote novo",
+        "descricao": "",
+        "audio": ""
+    },
+    {
+        "etiqueta": "TAG005",
+        "nome": "Gaveta",
+        "descricao": "Camisetas",
+        "audio": "camisetas.mp3"
+    },
+    {
+        "etiqueta": "ETIQUETA1",
+        "nome": "arroz",
+        "descricao": "arroz integral",
+        "audio": "arroz soltinho"
+    }
+]
